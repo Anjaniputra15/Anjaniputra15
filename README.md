@@ -108,7 +108,7 @@ const aayush: Developer = {
 <div align="center">
 
 ### 💻 **Programming Languages**
-[![My Languages](https://skillicons.dev/icons?i=cpp,python,java,r,rust,swift,js,typescript,sql&theme=dark)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=cpp,python,rust,swift,js,typescript,sql&theme=dark)](https://skillicons.dev)
 
 ### 🏗️ **Frameworks & Libraries**
 [![My Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,react,fastapi,docker,kubernetes&theme=dark)](https://skillicons.dev)
