@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Tech-Driven+Investment+Engineer;Quantitative+Software+Developer;Financial+Modeling+%26+Valuation+Expert;Building+the+Future+of+FinTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Tech-Driven+Investment+Engineer;Quantitative+Software+Developer;Experience+Financial+Modeling+%26+Valuation;Building+the+Future+of+FinTech" alt="Typing SVG" />
 </div>
 
 <div align="center">
