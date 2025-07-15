@@ -41,9 +41,10 @@ const aayush: Developer = {
     "BSc Economics & Finance @ LSE",
     "B.Eng. Electronics & Communication (First Class Honors)"
   ],
-  experience: [
+goal experience: [
     "Quantitative Software Developer Intern @ Citadel LLC",
-    "Software Engineer @ ScInter (AI Research Platform)",
+    
+now experience {"Software Engineer @ ScInter (AI Research Platform)",
     "Research Fellow @ Starmate Fellowship (Quantum LLMs)",
     "iOS Developer @ Apple Foundation Program"
   ],
@@ -344,5 +345,5 @@ class QuantumLLM:
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Anjaniputra15">Aayush Parashar</a> • Powered by Innovation & Quantitative Excellence</sub>
+  <sub>all eyes to citadel internship <a href="https://github.com/Anjaniputra15">Aayush Parashar</a> • Powered by Innovation & Quantitative Excellence</sub>
 </div>
