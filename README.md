@@ -2,188 +2,55 @@
 
 # Aayush Parashar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Quantitative+Developer;Low-Latency+Systems;ML+Research)](https://git.io/typing-svg)
+### Quantitative Developer · Low-Latency Systems · Biomedical ML
 
-**Sydney, Australia**
+Sydney, Australia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-parashar1307)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushparashar01@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Anjaniputra15?style=for-the-badge&logo=github&label=Follow)](https://github.com/Anjaniputra15)
-
-<img src="https://github.com/Anjaniputra15/Anjaniputra15/blob/output/github-snake-dark.svg" alt="Snake animation" />
+[LinkedIn](https://linkedin.com/in/aayush-parashar1307) · [Portfolio](https://aayush-tech.aayushparashar01.workers.dev/) · [Email](mailto:aayushparashar01@gmail.com)
 
 </div>
-
----
 
 ## About
 
-Software developer focused on trading systems and signal processing. Currently researching biomedical ML at Torrens University while competing in quantitative trading competitions.
+I build performance-sensitive software for quantitative research, trading infrastructure, and biomedical signal processing. My work spans C++ systems, Python research tooling, causal backtesting, concurrency, and compute-efficient machine learning.
 
-<details>
-<summary><b>🎯 What I'm working on</b></summary>
-<br>
+I am currently completing a Bachelor of Information Technology at Torrens University Australia and researching compact ECG representations for edge deployment.
 
-- 🔬 ECG compression algorithms for embedded deployment
-- 📈 Backtesting engine in C++23 with memory-pooled allocators
-- 🧠 Neural network quantization for edge inference
-- 📊 Statistical arbitrage signal research
+## Selected work
 
-</details>
-
----
+| Project | What it demonstrates |
+| --- | --- |
+| [Ace — Algothon 2026](https://github.com/Anjaniputra15/algothon-2026-ace) | Reproducible quantitative research with causal signals, blocked walk-forward validation, tests, and an unseen leaderboard score of **9.6834**. |
+| [Low-Latency Order Matching Engine](https://github.com/Anjaniputra15/Low-Latency-Order-Matching-Engine-C-17-) | C++17 price-time-priority engine supporting GTC, IOC, and FOK orders, with benchmarked p50 latency of **42 ns** and p99 of **250 ns**. |
+| [C++ Backtesting Framework](https://github.com/Anjaniputra15/cpp-backtesting-framework) | Event-driven strategy simulation with microsecond timestamps, reusable strategy interfaces, and portfolio risk metrics. |
+| [Quants in Motion](https://github.com/Anjaniputra15/quants-in-motion) | Async market-data pipelines, GIL-aware concurrency, multiprocessing, memory monitoring, and Prometheus-style metrics. |
+| [Biosignal AI Poster](https://github.com/Anjaniputra15/human-biosignal-ai-poster) | Compute-efficient tokenisation for long-sequence ECG modelling, presented as a published web/PDF research artifact. |
 
 ## Experience
 
-<details open>
-<summary><b>💼 Click to expand/collapse</b></summary>
-<br>
-
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| **AI Research Engineer** | Signal Processing Lab, Torrens | Apr 2025 – Present | Biomedical time-series compression, embedded ML optimization |
-| **Algothon Competitor** | SIG (Susquehanna) | Jun – Jul 2025 | **Ranked 39/240** (Top 16%), C++17 lock-free execution, Kalman filtering |
-| **Software Intern** | Scinter | Jan – Mar 2025 | 10K+ daily queries, **600ms → 200ms** p95 latency |
-
-</details>
-
----
-
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/Anjaniputra15/cpp-backtesting-framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaniputra15&repo=cpp-backtesting-framework&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/Anjaniputra15/Analysis-Monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anjaniputra15&repo=Analysis-Monitor&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-<details>
-<summary><b>📂 Project Details</b></summary>
-<br>
-
-### cpp-backtesting-framework
-Event-driven backtester in C++23 for tick-level strategy simulation.
-- Memory-pooled allocator for hot paths
-- Microsecond timestamp resolution  
-- Sharpe, Sortino, max drawdown metrics
-- Modular strategy interface
-
-### Analysis-Monitor
-Terminal-based service monitoring with real-time health checks.
-- Multi-service dashboard
-- Configurable alerting thresholds
-- Async health polling
-
-</details>
-
----
-
-## Tech Stack
-
-<details open>
-<summary><b>🛠️ Languages & Tools</b></summary>
-<br>
-
-<div align="center">
-
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### Frameworks & Libraries
-![Boost](https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logo=boost&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📊 Skill Proficiency</b></summary>
-<br>
-
-```text
-C++/Systems Programming   ████████████████████░   95%
-Python/ML                 ███████████████████░░   90%
-Low-Latency Optimization  ████████████████░░░░░   80%
-Quantitative Methods      ███████████████░░░░░░   75%
-Infrastructure/DevOps     ██████████████░░░░░░░   70%
-```
-
-**Profiling:** perf, Valgrind, FlameGraph, cachegrind  
-**Quantitative:** Kalman filters, ARIMA/GARCH, Monte Carlo, options pricing
-
-</details>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anjaniputra15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaniputra15&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaniputra15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaniputra15&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
----
+| Role | Organisation | Highlights |
+| --- | --- | --- |
+| AI Research Engineer | Signal Processing Lab, Torrens University | Biomedical time-series compression and embedded ML optimisation. |
+| Algothon Competitor | SIG (Susquehanna) | Ranked **39/240** (top 16%); worked on execution, filtering, and quantitative research. |
+| Software Intern | Scinter | Supported 10K+ daily queries and reduced p95 latency from **600 ms to 200 ms**. |
 
 ## Research
 
-<details>
-<summary><b>📄 Publications</b></summary>
-<br>
+**ECG-ASQ-LLM: Adaptive Semantic Quantization for Calibrated Deep Learning Classification**
 
-**"ECG-ASQ-LLM: Adaptive Semantic Quantization for Calibrated Deep Learning Classification"**  
-Manuscript submitted to IEEE Transactions on Biomedical Engineering *(under review)*
+Manuscript submitted to *IEEE Transactions on Biomedical Engineering* and currently under review.
 
-- Adaptive quantization scheme for ECG classification
-- LLM-based semantic feature extraction
-- Improved calibration for clinical deployment
+## Toolkit
 
-</details>
+- **Systems:** C++17/23, Linux, CMake, profiling, memory management, concurrent programming
+- **Research:** Python, NumPy, pandas, PyTorch, time-series analysis, backtesting
+- **Infrastructure:** Docker, Redis, PostgreSQL, Bash, GitHub Actions
+- **Quantitative methods:** factor research, Kalman filtering, Monte Carlo methods, risk and performance analysis
 
----
+## Contact
 
-## Education
+I am open to quantitative developer and software engineering opportunities in trading and fintech.
 
-**Bachelor of Information Technology**  
-Torrens University Australia · Expected Dec 2026
-
----
-
-<div align="center">
-
-### 📬 Let's Connect
-
-I'm actively seeking **Quantitative Developer** and **Software Engineer** roles in trading/fintech.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-parashar1307)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushparashar01@gmail.com)
-
-📍 Sydney, Australia · ✅ Full work rights
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Anjaniputra15&style=flat-square&color=58A6FF" alt="Profile views"/>
-
-</div>
+- [LinkedIn](https://linkedin.com/in/aayush-parashar1307)
+- [Email](mailto:aayushparashar01@gmail.com)
+- Sydney, Australia · Full work rights
